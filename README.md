@@ -12,3 +12,6 @@ In order to do this, some external libraries are required to install :
 
 <code>pip install matplotlib</code>
 
+## Read All About from this link:
+
+https://medium.com/@nikhilwani05/learning-face-detection-using-opencv-671572a1a032
